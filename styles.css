@@ -1,0 +1,337 @@
+
+body{
+    position: relative;
+    width: 360px;
+    height: 1987px;
+    font-family: Inter;
+    background: #FFFFFF;
+}
+
+.h1{
+    position: absolute;
+    width: 320px;
+    height: 171px;
+    left: 20px;
+    top: 25px;
+
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 44px;
+    line-height: 57px;
+
+    color: #000000;
+}
+
+.h2{
+    position: absolute;
+    width: 320px;
+    height: 416px;
+    left: 20px;
+    top: 221px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 32px;
+    /* or 145% */
+
+
+    color: #000000;
+}
+
+.p1{
+    position: absolute;
+    width: 320px;
+    height: 96px;
+    left: 20px;
+    top: 662px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+.p2{
+    position: absolute;
+    width: 320px;
+    height: 72px;
+    left: 20px;
+    top: 773px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+.p3{
+    position: absolute;
+    width: 320px;
+    height: 72px;
+    left: 20px;
+    top: 860px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+.p4{
+    position: absolute;
+    width: 320px;
+    height: 384px;
+    left: 20px;
+    top: 947px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+.p5{
+    position: absolute;
+    width: 320px;
+    height: 192px;
+    left: 20px;
+    top: 1346px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+.p6{
+    position: absolute;
+    width: 320px;
+    height: 264px;
+    left: 20px;
+    top: 1553px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+
+}
+
+.p7{
+    position: absolute;
+    width: 320px;
+    height: 120px;
+    left: 20px;
+    top: 1832px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    /* or 150% */
+
+
+    color: #000000;
+}
+
+@media (min-width: 500px) {
+
+    body{
+    position: relative;
+    width: 1400px;
+    height: 1351px;
+
+    background: #FFFFFF;
+    }
+    
+    .h1{
+    position: absolute;
+    width: 800px;
+    height: 174px;
+    left: 60px;
+    top: 50px;
+
+    font-family: IBM Plex Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 76px;
+    line-height: 87px;
+    /* or 114% */
+
+
+    color: red;
+    }
+
+    .h2{
+        position: absolute;
+    width: 800px;
+    height: 392px;
+    left: 60px;
+    top: 259px;
+
+    font-family: Inter;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 49px;
+    /* or 153% */
+
+
+    color: #000000;
+    }
+
+    .p1{
+        position: absolute;
+        width: 800px;
+        height: 50px;
+        left: 60px;
+        top: 686px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* or 156% */
+        
+        
+        color: #000000;
+    }
+    .p2{
+        position: absolute;
+        width: 800px;
+        height: 25px;
+        left: 60px;
+        top: 751px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* identical to box height, or 156% */
+        
+        
+        color: #000000;
+         
+    }
+    .p3{
+        position: absolute;
+        width: 800px;
+        height: 25px;
+        left: 60px;
+        top: 791px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* identical to box height, or 156% */
+        
+        
+        color: #000000;
+    }
+    .p4{
+        position: absolute;
+        width: 800px;
+        height: 150px;
+        left: 60px;
+        top: 831px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* or 156% */
+        
+        
+        color: #000000;
+    }
+    .p5{
+        position: absolute;
+        width: 800px;
+        height: 100px;
+        left: 60px;
+        top: 996px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* or 156% */
+        
+        
+        color: #000000;
+    }
+    .p6{
+        position: absolute;
+        width: 800px;
+        height: 125px;
+        left: 60px;
+        top: 1111px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* or 156% */
+        
+        
+        color: #000000;
+    }
+    .p7{
+        position: absolute;
+        width: 800px;
+        height: 50px;
+        left: 60px;
+        top: 1251px;
+        
+        font-family: Inter;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 25px;
+        /* or 156% */
+        
+        
+        color: #000000;
+    }
+}
